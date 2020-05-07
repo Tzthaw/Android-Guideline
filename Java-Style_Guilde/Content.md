@@ -17,25 +17,6 @@ and the
 [Google Java Style Guide](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html).
 Alterations to support additional readability in tutorials were inspired by the
 
-## Android Studio Coding Style
-
-It is possible to get Android Studio to adhere to these style guidelines, via
-a rather complex sequence of menus. To make it easier, we've provided a coding
-style that can be imported into Android Studio.
-
-First, clone this repository and run `install.sh`.
-
-Then, open Android Studio. To set this codestyle as the default, select
-__File > Other Settings > Default Settings...__:
-
-![Default Settings](resources/default_settings.png)
-
-In __Editor > Code Style__, choose the __Scheme__ to be __raywenderlich.com__:
-
-![Setting the Scheme](resources/setting_scheme.png)
-
-From now on, projects you create _should_ follow the correct style guidelines.
-
 
 ## Table of Contents
 
