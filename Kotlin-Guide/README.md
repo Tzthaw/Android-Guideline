@@ -3,4 +3,4 @@
 https://github.com/Tzthaw/Android-Guideline/blob/master/Kotlin-Guide/SourceFiles.md
 
 ## Formatting
-https://github.com/Tzthaw/Android-Guideline/blob/master/Kotlin-Guide/Formatting
+https://github.com/Tzthaw/Android-Guideline/blob/master/Kotlin-Guide/Formatting.md
