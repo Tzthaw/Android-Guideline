@@ -1,7 +1,5 @@
 # Gradle
 
-## Best Practices
-
 ### Storing sensitive data on a local file and not pushing in a git repo
 **Passwords.** In your app's `build.gradle` you will need to define the `signingConfigs` for the release build. Here is what you should avoid:
 
