@@ -19,6 +19,7 @@ The title consists of the type of the message and subject.
 The type is contained within the title and can be one of these types:
 
 * **feat:** a new feature
+* **merge:** merge branch
 * **fix:** a bug fix
 * **docs:** changes to documentation
 * **style:** formatting, missing semi-colons, etc; no code change
